@@ -14,7 +14,24 @@ Study-Quest transforms the learning process into a game. By completing tasks, st
 * **Reward System:** Unlock achievements and track progress through a visual leveling system.
 * **User-Friendly Interface:** A clean, intuitive UI designed to minimize distractions.
 
-## 📸 Screenshots
+## 📸 App Preview
+<p align="center">
+  <img src="./assets/Screenshot%202026-01-30%20013307.png" width="15%" />
+  <img src="./assets/Screenshot%202026-01-30%20013336.png" width="15%" />
+  <img src="./assets/Screenshot%202026-01-30%20013355.png" width="15%" />
+  <img src="./assets/Screenshot%202026-01-30%20013408.png" width="15%" />
+  <img src="./assets/Screenshot%202026-01-30%20013422.png" width="15%" />
+  <img src="./assets/Screenshot%202026-01-30%20013437.png" width="15%" />
+</p>
+
+<p align="center">
+  <img src="./assets/Screenshot%202026-01-30%20013455.png" width="15%" />
+  <img src="./assets/Screenshot%202026-01-30%20013516.png" width="15%" />
+  <img src="./assets/Screenshot%202026-01-30%20013533.png" width="15%" />
+  <img src="./assets/Screenshot%202026-01-30%20013547.png" width="15%" />
+  <img src="./assets/Screenshot%202026-01-30%20013616.png" width="15%" />
+  <img src="./assets/Screenshot%202026-01-30%20013701.png" width="15%" />
+</p>
 
 ## 🛠️ Tech Stack
 * **Language:** Dart
