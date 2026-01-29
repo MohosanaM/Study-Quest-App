@@ -7,11 +7,14 @@ Traditional study methods often feel tedious, leading to a lack of motivation. S
 
 ## 🚀 Our Solution
 Study-Quest transforms the learning process into a game. By completing tasks, students earn rewards and level up, making the "grind" of studying feel like an achievement.
+
 ## ✨ Key Features
 * **Gamified Task Management:** Create study tasks and earn "Experience Points" (XP) upon completion.
 * **Interactive Timer:** Built-in focus sessions (Pomodoro-style) to ensure deep work.
 * **Reward System:** Unlock achievements and track progress through a visual leveling system.
 * **User-Friendly Interface:** A clean, intuitive UI designed to minimize distractions.
+
+## 📸 Screenshots
 
 ## 🛠️ Tech Stack
 * **Language:** Dart
