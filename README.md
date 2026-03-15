@@ -38,6 +38,15 @@ Study-Quest transforms the learning process into a game. By completing tasks, st
 * **Framework:** Flutter (Cross-platform)
 * **Design Tools:** Figma / Adobe XD
 * **Development Environment:** VS Code / Android Studio
+  ## 🛡️ Security Architecture & Privacy
+
+As a Cybersecurity-focused developer, I implemented a "Security-by-Design" approach for Study Quest:
+
+* **Data Integrity:** Implemented robust input validation for all user entry points to prevent common injection vulnerabilities.
+* **Secure State Management:** Leveraged secure local state patterns to ensure user session data remains isolated and protected.
+* **Privacy-Centric Architecture:** Designed with a "Zero-Tracking" policy. The application requires no unnecessary permissions, ensuring maximum user privacy and data sovereignty.
+* **Compliance Ready:** Built following best practices that align with GDPR principles for data minimization.
+  
 ## 📋 System Requirements & Design
 The app is built following a structured **Software Development Life Cycle (SDLC)**:
 - **Functional Requirements:** User registration, task creation, quest tracking, and notification alerts.
